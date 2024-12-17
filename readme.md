@@ -12,3 +12,4 @@ client can update the system information to the server.
 ## dependencies
 
 - websockets asyncio psutil
+
